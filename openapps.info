@@ -7,6 +7,8 @@ version = 7.x-0.1
 ; Core
 ;;;;;;;;;;;;;
 
+dependencies[] = block
+dependencies[] = comment
 dependencies[] = contextual
 dependencies[] = dblog
 dependencies[] = field_ui
@@ -33,6 +35,7 @@ dependencies[] = entity
 dependencies[] = features
 dependencies[] = feeds
 dependencies[] = feeds_ui
+dependencies[] = field_views
 dependencies[] = libraries
 dependencies[] = strongarm
 dependencies[] = token
